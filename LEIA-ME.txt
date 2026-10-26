@@ -1,0 +1,40 @@
+MAQUINA DE VENDAS PREVISIVEL - pagina de vendas (Copy Black, final)
+
+COMO VER A PAGINA
+-----------------
+Abra "visualizar-offline.html" com dois cliques.
+
+PARA PUBLICAR NA VERCEL (via GitHub)
+------------------------------------
+Projeto novo: suba TODO o conteudo de dentro da pasta "para-vercel"
+na raiz do repositorio. Framework Preset na Vercel: "Next.js".
+
+So atualizar um repositorio que ja existe:
+  index.html   -> public/index.html
+  assets/*     -> public/assets/
+
+ESTRUTURA DA PAGINA (6 dobras)
+------------------------------
+Barra vermelha: "Condicao Especial"
+1. Hero        - "Sua empresa vai quebrar. / Voce nao vai perceber."
+                 + mockup (Psicologia, Maquina de Vendas, Painel)
+2. Ponto Cego  - "Nao e falha sua..." + 4 cartoes numerados + destaque
+3. Seu futuro  - tabela "hoje no escuro" x "saindo do escuro"
+4. Biografia   - "Quem vai te guiar a sair do escuro?" + colagem + bio
+5. Depoimentos - Thiago, Miguel e Luis Henrique (toque para ampliar)
+6. Oferta      - de R$ 69,90 por R$ 29,90
+                 Botao "Quero blindar meu caixa por R$ 29,90"
+                 Material em PDF . Download imediato . Garantia de 7 dias
+
+O QUE AINDA FALTA
+-----------------
+[ ] Rodape: razao social, CNPJ e e-mail de contato
+[ ] og:image: trocar "SEUDOMINIO.com.br" pelo dominio real
+[ ] Confirmar dados da bio: plateias de ate 3.000 pessoas,
+    Competenza, Seno RH e Plano Santa Catarina
+
+RASTREAMENTO
+------------
+Pixel Meta 1123093893489908 (PageView)
+Utmify: UTMs + pixel proprio (Purchase desligado no Utmify)
+Checkout: https://pay.kiwify.com.br/QuJ2L37
